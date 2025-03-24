@@ -1,0 +1,1514 @@
+[
+  {
+    "shipment_id": "VSSZ8635589",
+    "container_tracking_number": "64Q-1ST 56Q-SKVN2312",
+    "package_code": [
+      "50Q-FR-NLGF-15B",
+      "50Q-FR-NLGF-06T",
+      "50Q-DG-LG-13B",
+      "50Q-CW-L02-08T"
+    ],
+    "ETA": "JAN.21.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-FR-NLGF-15B",
+        "packing_method": "PDM401",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-11",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-06",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NLGF-06T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-09",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-LG-13B",
+        "packing_method": "PDM401",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-19",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-15",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-13",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-16",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-L02-08T",
+        "packing_method": "Stillage",
+        "floor_number": "LG",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-SC-06",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-92",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-13",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L02-W-05",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "YRTQ6762239",
+    "container_tracking_number": "45Q-7TH 30Q-HPNH9196",
+    "package_code": [
+      "50Q-GL-NLGF-09B",
+      "50Q-CW-NLGF-05T",
+      "50Q-FR-NLGF-05T",
+      "50Q-GL-NL01-04B",
+      "50Q-FR-NL01-15T"
+    ],
+    "ETA": "JAN.2.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-GL-NLGF-09B",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-11",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-NLGF-05T",
+        "packing_method": "PDM401",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-03",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-03",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NLGF-05T",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-10",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-GL-NL01-04B",
+        "packing_method": "Crate",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-08",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L02-W-06",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-20",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-12",
+              "des": "CW"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NL01-15T",
+        "packing_method": "PDM401",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L03-E-06",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-12",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-16",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "RIPD5328136",
+    "container_tracking_number": "34Q-1ST 51Q-OTHL9657",
+    "package_code": [
+      "50Q-DG-NLGF-01T",
+      "50Q-CW-NLGF-10B",
+      "50Q-CW-NLGF-20T",
+      "50Q-DG-LG-06T",
+      "50Q-CW-LG-10T"
+    ],
+    "ETA": "JAN.1.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-DG-NLGF-01T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-09",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-05",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-03",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-10",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-NLGF-10B",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-NLGF-20T",
+        "packing_method": "Stillage",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-05",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-LG-06T",
+        "packing_method": "crate",
+        "floor_number": "NL01",
+        "items": [
+          {
+            "item": {
+              "item_code": "L03-E-21",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-25",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-16",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-02",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-04",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-LG-10T",
+        "packing_method": "Crate",
+        "floor_number": "LG",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-14",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-94",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-01",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "OPTS6396435",
+    "container_tracking_number": "92Q-5TH 44Q-TNDL4162",
+    "package_code": [
+      "50Q-DG-NLGF-12T",
+      "50Q-DG-NLGF-20T",
+      "50Q-FR-NLGF-06T",
+      "50Q-DG-NLGF-05T",
+      "50Q-DG-L02-07B",
+      "50Q-GL-L02-13T"
+    ],
+    "ETA": "JAN.11.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-DG-NLGF-12T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-01",
+              "des": "CW"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-NLGF-20T",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-05",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-15",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NLGF-06T",
+        "packing_method": "PDM401",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-09",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-16",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-NLGF-05T",
+        "packing_method": "Stillage",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-09",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-L02-07B",
+        "packing_method": "Stillage",
+        "floor_number": "LG",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-E-47",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-09",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-18",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-GL-L02-13T",
+        "packing_method": "Crate",
+        "floor_number": "NL01",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-05",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-46",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-38",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "HWZT9243043",
+    "container_tracking_number": "68Q-7TH",
+    "package_code": [
+      "50Q-GL-NLGF-14T",
+      "50Q-CW-NLGF-13B",
+      "50Q-DG-NLGF-13T",
+      "50Q-FR-NL01-20B",
+      "50Q-CW-L02-17B",
+      "50Q-DG-LG-20B"
+    ],
+    "ETA": "JAN.23.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-GL-NLGF-14T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-10",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-01",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-NLGF-13B",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-05",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-12",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-NLGF-13T",
+        "packing_method": "PDM401",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-08",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-01",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-19",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NL01-20B",
+        "packing_method": "Stillage",
+        "floor_number": "NL01",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-20",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-31",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-01",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-L02-17B",
+        "packing_method": "PDM401",
+        "floor_number": "LG",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-SC-08",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-08",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-16",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-LG-20B",
+        "packing_method": "Crate",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-20",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-21",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-37",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "SGVA3590882",
+    "container_tracking_number": "31Q-3RD 72Q-KRVU0599",
+    "package_code": [
+      "50Q-GL-NLGF-03B",
+      "50Q-CW-NLGF-04B",
+      "50Q-CW-L02-02T",
+      "50Q-CW-LG-09T"
+    ],
+    "ETA": "JAN.17.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-GL-NLGF-03B",
+        "packing_method": "Stillage",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-11",
+              "des": "DGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-NLGF-04B",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-03",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-05",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-15",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-10",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-L02-02T",
+        "packing_method": "Stillage",
+        "floor_number": "NL01",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-W-12",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-15",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-01",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-04",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-18",
+              "des": "SGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-LG-09T",
+        "packing_method": "crate",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-SC-02",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-03",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-E-84",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L02-W-14",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shipment_id": "UESI5659579",
+    "container_tracking_number": "17Q-2ND 89Q-WLDH1551",
+    "package_code": [
+      "50Q-FR-NLGF-05T",
+      "50Q-DG-NLGF-01T",
+      "50Q-DG-NLGF-13B",
+      "50Q-CW-L02-16B",
+      "50Q-FR-NL01-04T"
+    ],
+    "ETA": "JAN.22.2026",
+    "arrival_status": "",
+    "packages": [
+      {
+        "package_code": "50Q-FR-NLGF-05T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-11",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-06",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-04",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-15",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-07",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-NLGF-01T",
+        "packing_method": "crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-18",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-17",
+              "des": "DGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-02",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-14",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-01",
+              "des": "FR"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-DG-NLGF-13B",
+        "packing_method": "Crate",
+        "floor_number": "NLGF",
+        "items": [
+          {
+            "item": {
+              "item_code": "LGF-SC-09",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-11",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-13",
+              "des": "CW Panel w/fin"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "LGF-SC-20",
+              "des": "DGL"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-CW-L02-16B",
+        "packing_method": "Stillage",
+        "floor_number": "LG",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-E-83",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-06",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-12",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-W-17",
+              "des": "CW"
+            },
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "package_code": "50Q-FR-NL01-04T",
+        "packing_method": "crate",
+        "floor_number": "N GF~L06",
+        "items": [
+          {
+            "item": {
+              "item_code": "L01-E-59",
+              "des": "FR"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-04",
+              "des": "SGL"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L01-SC-08",
+              "des": "CW"
+            },
+            "quantity": 1
+          },
+          {
+            "item": {
+              "item_code": "L03-E-25",
+              "des": "GLZ"
+            },
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+]
